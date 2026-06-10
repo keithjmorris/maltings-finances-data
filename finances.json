@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "month": "Year to Date",
+    "month": "Year end",
     "year": "2024-25",
     "variableIncomeActual": 365105,
     "variableIncomePlan": 409610,
@@ -52,7 +52,7 @@
   },
   {
     "id": 2,
-    "month": "Year-to-Date",
+    "month": "Year end",
     "year": "2025-2026",
     "variableIncomeActual": 429929,
     "variableIncomePlan": 439450,
@@ -103,7 +103,7 @@
   },
   {
     "id": 40,
-    "month": "Year-end",
+    "month": "Year-to-Date",
     "year": "2026-2027",
     "variableIncomeActual": 37365,
     "variableIncomePlan": 38660,
